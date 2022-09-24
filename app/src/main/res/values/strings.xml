@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="search">Search</string>
+
+</resources>
