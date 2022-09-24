@@ -1,6 +1,6 @@
 
  Features
-Contacts Pro Kotlin is composed of 4 main screens - Contacts List, Add New Contact, Contact Details, Edit Contact Search Contact
+Address book  Kotlin is composed of 4 main screens - Contacts List, Add New Contact, Contact Details, Edit Contact Search Contact
 
 Contact listing screen reading data from XML file
 
